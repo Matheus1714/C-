@@ -108,6 +108,10 @@ Presente no arquivo `graaph.c`, mostra um exemplo da implementação de um grafo
 
 Presente no arquivo `death_first_search.c`, mostra um exemplo da implementação de busca em profundidade em grafo.
 
+## **Busca em Largura**
+
+Presente no arquivo `breadth_first_search.c`, mostra um exemplo da implementação de busca em largura em grafo.
+
 
 # Contato
 
