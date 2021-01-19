@@ -104,6 +104,11 @@ Presente no arquivo `avl.c`, mostra um exemplo da implementação de uma árvore
 
 Presente no arquivo `graaph.c`, mostra um exemplo da implementação de um grafo com listas de adjacencia.
 
+## **Busca em Profundidade**
+
+Presente no arquivo `death_first_search.c`, mostra um exemplo da implementação de busca em profundidade em grafo.
+
+
 # Contato
 
 Caso encontre algum erro, mande um email para matheussilvamartins1714@gmail.com.
