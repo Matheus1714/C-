@@ -100,6 +100,10 @@ Presente no arquivo `trie.c`, mostra um exemplo da implementação de uma árvor
 
 Presente no arquivo `avl.c`, mostra um exemplo da implementação de uma árvore do tipo AVL(que tenta balancear seus elementos baseado na altura entre os nós).
 
+## **Grafo**
+
+Presente no arquivo `graaph.c`, mostra um exemplo da implementação de um grafo com listas de adjacencia.
+
 # Contato
 
 Caso encontre algum erro, mande um email para matheussilvamartins1714@gmail.com.
