@@ -3,9 +3,9 @@
 
 Os códigos foram baseados nas aulas do YouTube no [link](https://www.youtube.com/watch?v=y0B-vQI6Tiw&list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl&index=1).
 
-# Rodas códigos
+# Rodar códigos
 
-Obs.: Os códigos abaixo são válidos para usuários do Windowns 10.
+Obs.: Os comandos escritos abaixo são para usuários de Windowns 10.
 
 Para gerar qualquer executável é necessário apenas escreve o cógico no terminal:
 
