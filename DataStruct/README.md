@@ -112,6 +112,10 @@ Presente no arquivo `death_first_search.c`, mostra um exemplo da implementação
 
 Presente no arquivo `breadth_first_search.c`, mostra um exemplo da implementação de busca em largura em grafo.
 
+## **Algoritmo de Dijkstra**
+
+
+Presente no arquivo `djk.c`, mostra um exemplo da implementação do algoritmo de Dijkistra(encontrar menor caminho no grafo).
 
 # Contato
 
