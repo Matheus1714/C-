@@ -34,3 +34,7 @@ As aulas são dadas por capítulo, que vão de Cap. 1 até Cap. 11. Com isso, es
 
 Interno as pastas não há organzação pré-definida, mas no geral serão apenas arquivos na pasta.
 
+## Repositórios Semelhantes
+
+[Fantonio - eddaace](https://github.com/fantonio/eddaace)
+
